@@ -1,5 +1,3 @@
-package com.mycompany.uniagustiniana;
-
 public class cineytv extends estudiante{
     private String documental;
 

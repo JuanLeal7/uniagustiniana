@@ -1,5 +1,3 @@
-package com.mycompany.uniagustiniana;
-
 public class teleco extends estudiante{
 private String semestre;
 private int edad;

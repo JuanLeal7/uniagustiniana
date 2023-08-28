@@ -1,4 +1,3 @@
-package com.mycompany.uniagustiniana;
 public class lenguas extends estudiante{
     private String semestre;
 
@@ -26,5 +25,4 @@ public class lenguas extends estudiante{
 }
 
     
-
 

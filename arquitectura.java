@@ -1,4 +1,3 @@
-package com.mycompany.uniagustiniana;
 public class arquitectura extends estudiante{
     private String proyecto;
 

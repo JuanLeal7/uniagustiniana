@@ -1,5 +1,3 @@
-package com.mycompany.uniagustiniana;
-
 public class gastronomia extends estudiante{
      private String plato;
 
@@ -24,4 +22,3 @@ public class gastronomia extends estudiante{
     }
     
 }
-

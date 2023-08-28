@@ -1,5 +1,3 @@
-package com.mycompany.uniagustiniana;
-
 public class estudiante{
     protected String carrera,nombre;
     protected int promedio;
@@ -41,3 +39,4 @@ public class estudiante{
         
     }
 }
+    

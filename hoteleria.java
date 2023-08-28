@@ -1,5 +1,3 @@
-package com.mycompany.uniagustiniana;
-
 public class hoteleria extends estudiante{
  private String semestre,CEO;
  
