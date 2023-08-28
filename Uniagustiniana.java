@@ -1,4 +1,3 @@
-package com.mycompany.uniagustiniana;
 import java.util.Scanner;
 
 
